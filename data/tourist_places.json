@@ -1,0 +1,167 @@
+[
+  {
+    "city": "Islamabad",
+    "place_name": "Faisal Mosque",
+    "category": "Religious/Landmark",
+    "estimated_cost": 100,
+    "recommended_time": "Evening",
+    "family_friendly": true,
+    "safety_note": "Very safe, well-guarded landmark. Modest dress is required.",
+    "lat": 33.7294,
+    "lon": 73.0372
+  },
+  {
+    "city": "Islamabad",
+    "place_name": "Daman-e-Koh",
+    "category": "Nature/Viewpoint",
+    "estimated_cost": 200,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Safe family spot. Beware of wild monkeys and follow park instructions.",
+    "lat": 33.7383,
+    "lon": 73.0592
+  },
+  {
+    "city": "Islamabad",
+    "place_name": "Lok Virsa Heritage Museum",
+    "category": "Cultural/Museum",
+    "estimated_cost": 150,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Extremely safe indoor cultural exhibit with secure parking.",
+    "lat": 33.6931,
+    "lon": 73.0678
+  },
+  {
+    "city": "Rawalpindi",
+    "place_name": "Raja Bazar",
+    "category": "Shopping/Local Market",
+    "estimated_cost": 500,
+    "recommended_time": "Daytime",
+    "family_friendly": false,
+    "safety_note": "Very crowded. Keep belongings secure and be mindful of pickpockets.",
+    "lat": 33.6105,
+    "lon": 73.0560
+  },
+  {
+    "city": "Rawalpindi",
+    "place_name": "Ayub National Park",
+    "category": "Recreation/Park",
+    "estimated_cost": 300,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Large family park with boating and play areas. Safe and well-lit.",
+    "lat": 33.5670,
+    "lon": 73.0801
+  },
+  {
+    "city": "Rawalpindi",
+    "place_name": "Pindi Food Street",
+    "category": "Food/Culture",
+    "estimated_cost": 800,
+    "recommended_time": "Nighttime",
+    "family_friendly": true,
+    "safety_note": "Lively food environment. Standard hygiene check is recommended.",
+    "lat": 33.5966,
+    "lon": 73.0566
+  },
+  {
+    "city": "Murree",
+    "place_name": "Mall Road",
+    "category": "Shopping/Walking Street",
+    "estimated_cost": 300,
+    "recommended_time": "Evening",
+    "family_friendly": true,
+    "safety_note": "Safe pedestrian walk. Avoid street vendors offering overpriced services.",
+    "lat": 33.9042,
+    "lon": 73.3903
+  },
+  {
+    "city": "Murree",
+    "place_name": "Patriata (New Murree) Chairlift",
+    "category": "Adventure/Nature",
+    "estimated_cost": 1200,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Check weather before boarding chairlift. Safe operator checks exist.",
+    "lat": 33.8967,
+    "lon": 73.4542
+  },
+  {
+    "city": "Murree",
+    "place_name": "Kashmir Point",
+    "category": "Nature/Scenic View",
+    "estimated_cost": 100,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Peaceful spot. Safe walking path, but can get foggy in the afternoon.",
+    "lat": 33.9094,
+    "lon": 73.3980
+  },
+  {
+    "city": "Naran",
+    "place_name": "Lake Saif-ul-Mulook",
+    "category": "Nature/Lake",
+    "estimated_cost": 4000,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Accessible via 4x4 jeep. Avoid visiting during heavy rain or winter snow blocks.",
+    "lat": 34.8794,
+    "lon": 73.6936
+  },
+  {
+    "city": "Naran",
+    "place_name": "Babusar Top",
+    "category": "Mountain Pass/Viewpoint",
+    "estimated_cost": 5000,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "High altitude (13,700 ft). Travel in daytime only. Wrap up warm.",
+    "lat": 35.1478,
+    "lon": 74.0450
+  },
+  {
+    "city": "Naran",
+    "place_name": "Lalazar Meadows",
+    "category": "Nature/Meadows",
+    "estimated_cost": 3500,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Rugged track. Hire an experienced local jeep driver. Safe during daytime.",
+    "lat": 34.9333,
+    "lon": 73.7167
+  },
+  {
+    "city": "Skardu",
+    "place_name": "Shangrila Lake (Lower Kachura)",
+    "category": "Nature/Resort",
+    "estimated_cost": 1000,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Highly secure resort area. Excellent for families and peaceful stays.",
+    "lat": 35.4244,
+    "lon": 75.4528
+  },
+  {
+    "city": "Skardu",
+    "place_name": "Katpana Cold Desert",
+    "category": "Nature/Desert",
+    "estimated_cost": 500,
+    "recommended_time": "Daytime",
+    "family_friendly": true,
+    "safety_note": "Unique high-altitude desert. Safe, but carry sunglasses and water.",
+    "lat": 35.3089,
+    "lon": 75.6178
+  },
+  {
+    "city": "Skardu",
+    "place_name": "Kharpocho Fort",
+    "category": "Historical/Hiking",
+    "estimated_cost": 200,
+    "recommended_time": "Daytime",
+    "family_friendly": false,
+    "safety_note": "Steep uphill trek. Wear sturdy shoes. Avoid hiking after sunset.",
+    "lat": 35.3022,
+    "lon": 75.6361
+  }
+]

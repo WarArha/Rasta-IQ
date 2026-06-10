@@ -1,0 +1,53 @@
+[
+  {
+    "route_id": "ROUTE_ISB_MUR_SAFE",
+    "route_name": "Recommended Safe Route - Islamabad to Murree",
+    "source": "Islamabad",
+    "destination": "Murree",
+    "distance_km": 64,
+    "estimated_time": "1 hr 45 min",
+    "traffic_level": "Medium",
+    "route_difficulty": "Moderate",
+    "coordinates": [
+      [33.6844, 73.0479],
+      [33.7006, 73.0362],
+      [33.7380, 73.0850],
+      [33.8000, 73.1800],
+      [33.8500, 73.2800],
+      [33.9042, 73.3903]
+    ]
+  },
+  {
+    "route_id": "ROUTE_ISB_RWP_FAST",
+    "route_name": "Fast Route - Islamabad to Rawalpindi",
+    "source": "Islamabad",
+    "destination": "Rawalpindi",
+    "distance_km": 22,
+    "estimated_time": "40 min",
+    "traffic_level": "High",
+    "route_difficulty": "Easy",
+    "coordinates": [
+      [33.6844, 73.0479],
+      [33.6615, 73.0849],
+      [33.6350, 73.0750],
+      [33.6089, 73.0567]
+    ]
+  },
+  {
+    "route_id": "ROUTE_ISB_DEMO",
+    "route_name": "Demo Safe Route",
+    "source": "Islamabad",
+    "destination": "Demo Destination",
+    "distance_km": 30,
+    "estimated_time": "55 min",
+    "traffic_level": "Low",
+    "route_difficulty": "Easy",
+    "coordinates": [
+      [33.6844, 73.0479],
+      [33.6900, 73.0600],
+      [33.7000, 73.0800],
+      [33.7100, 73.1000],
+      [33.7200, 73.1200]
+    ]
+  }
+]

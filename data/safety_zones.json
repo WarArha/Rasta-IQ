@@ -1,0 +1,54 @@
+[
+  {
+    "zone_id": "RWP001",
+    "zone_name": "Sample Risk Zone - Raja Bazaar",
+    "city": "Rawalpindi",
+    "latitude": 33.6089,
+    "longitude": 73.0567,
+    "radius_meters": 700,
+    "risk_level": "High",
+    "risk_reason": "Crowded commercial area, high rush, not recommended for women travelers late at night",
+    "crowd_level": "High",
+    "avoid_after": "20:00",
+    "recommended_action": "Avoid after sunset and prefer main roads"
+  },
+  {
+    "zone_id": "ISB001",
+    "zone_name": "Sample Moderate Zone - Faizabad",
+    "city": "Islamabad",
+    "latitude": 33.6615,
+    "longitude": 73.0849,
+    "radius_meters": 600,
+    "risk_level": "Medium",
+    "risk_reason": "Heavy traffic and crowded transport area",
+    "crowd_level": "High",
+    "avoid_after": "22:00",
+    "recommended_action": "Use caution and avoid unnecessary stops"
+  },
+  {
+    "zone_id": "MUR001",
+    "zone_name": "Sample Risk Zone - Isolated Murree Road Bend",
+    "city": "Murree",
+    "latitude": 33.9042,
+    "longitude": 73.3903,
+    "radius_meters": 800,
+    "risk_level": "Medium",
+    "risk_reason": "Mountain road, low emergency access, risky after dark",
+    "crowd_level": "Low",
+    "avoid_after": "19:00",
+    "recommended_action": "Travel during daylight and stay on main route"
+  },
+  {
+    "zone_id": "ISB002",
+    "zone_name": "Sample Safe Zone - F9 Park Area",
+    "city": "Islamabad",
+    "latitude": 33.7006,
+    "longitude": 73.0362,
+    "radius_meters": 900,
+    "risk_level": "Low",
+    "risk_reason": "Public family-friendly area with better accessibility",
+    "crowd_level": "Medium",
+    "avoid_after": "23:00",
+    "recommended_action": "Generally safe, but avoid isolated corners late at night"
+  }
+]
